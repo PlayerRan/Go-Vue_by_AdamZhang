@@ -1,0 +1,10 @@
+server:
+  port: 1066
+datasource:
+  driverName: mysql
+  host: 123.56.19.92
+  port: 3316
+  database: test
+  username: test
+  password: 114514
+  charset: utf8
