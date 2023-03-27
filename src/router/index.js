@@ -1,6 +1,8 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import HomeView from '../views/HomeView.vue';
+// import Register from '../views/register/Register.vue';
+// import Login from '../views/login/Login.vue';
 
 Vue.use(VueRouter);
 
